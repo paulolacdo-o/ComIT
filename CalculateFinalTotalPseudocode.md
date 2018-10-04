@@ -1,3 +1,4 @@
+```
 algorithm CalculateFinalTotal
   var Number: amtPurchase, amtFinal
   
@@ -24,3 +25,4 @@ algorithm AmountSaved(Number: amount) : Number
 
   return discount
 end algorithm
+```
