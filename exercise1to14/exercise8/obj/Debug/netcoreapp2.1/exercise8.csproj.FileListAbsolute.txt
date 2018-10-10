@@ -1,0 +1,11 @@
+C:\proj\ComIT\exercise1to14\exercise8\bin\Debug\netcoreapp2.1\exercise8.deps.json
+C:\proj\ComIT\exercise1to14\exercise8\bin\Debug\netcoreapp2.1\exercise8.runtimeconfig.json
+C:\proj\ComIT\exercise1to14\exercise8\bin\Debug\netcoreapp2.1\exercise8.runtimeconfig.dev.json
+C:\proj\ComIT\exercise1to14\exercise8\bin\Debug\netcoreapp2.1\exercise8.dll
+C:\proj\ComIT\exercise1to14\exercise8\bin\Debug\netcoreapp2.1\exercise8.pdb
+C:\proj\ComIT\exercise1to14\exercise8\obj\Debug\netcoreapp2.1\exercise8.csprojAssemblyReference.cache
+C:\proj\ComIT\exercise1to14\exercise8\obj\Debug\netcoreapp2.1\exercise8.csproj.CoreCompileInputs.cache
+C:\proj\ComIT\exercise1to14\exercise8\obj\Debug\netcoreapp2.1\exercise8.AssemblyInfoInputs.cache
+C:\proj\ComIT\exercise1to14\exercise8\obj\Debug\netcoreapp2.1\exercise8.AssemblyInfo.cs
+C:\proj\ComIT\exercise1to14\exercise8\obj\Debug\netcoreapp2.1\exercise8.dll
+C:\proj\ComIT\exercise1to14\exercise8\obj\Debug\netcoreapp2.1\exercise8.pdb
