@@ -1,3 +1,4 @@
 # ComIT
 
-Repository for exercises during ComIT class
+Repository for source codes used for the class.
+Includes exercises and homeworks.
