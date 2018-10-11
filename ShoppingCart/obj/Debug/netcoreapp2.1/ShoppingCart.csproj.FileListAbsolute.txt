@@ -1,0 +1,11 @@
+C:\proj\comit\ShoppingCart\bin\Debug\netcoreapp2.1\ShoppingCart.deps.json
+C:\proj\comit\ShoppingCart\bin\Debug\netcoreapp2.1\ShoppingCart.runtimeconfig.json
+C:\proj\comit\ShoppingCart\bin\Debug\netcoreapp2.1\ShoppingCart.runtimeconfig.dev.json
+C:\proj\comit\ShoppingCart\bin\Debug\netcoreapp2.1\ShoppingCart.dll
+C:\proj\comit\ShoppingCart\bin\Debug\netcoreapp2.1\ShoppingCart.pdb
+C:\proj\comit\ShoppingCart\obj\Debug\netcoreapp2.1\ShoppingCart.csprojAssemblyReference.cache
+C:\proj\comit\ShoppingCart\obj\Debug\netcoreapp2.1\ShoppingCart.csproj.CoreCompileInputs.cache
+C:\proj\comit\ShoppingCart\obj\Debug\netcoreapp2.1\ShoppingCart.AssemblyInfoInputs.cache
+C:\proj\comit\ShoppingCart\obj\Debug\netcoreapp2.1\ShoppingCart.AssemblyInfo.cs
+C:\proj\comit\ShoppingCart\obj\Debug\netcoreapp2.1\ShoppingCart.dll
+C:\proj\comit\ShoppingCart\obj\Debug\netcoreapp2.1\ShoppingCart.pdb
