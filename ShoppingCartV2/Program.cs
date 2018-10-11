@@ -19,9 +19,9 @@ namespace ShoppingCartV2
 
             Console.WriteLine("You are buying:");
             Console.WriteLine("Item: " + item.getItemName());
-            Console.WriteLine("Price: $ {0:0.##}", item.getItemPrice());
-            Console.WriteLine("Tax: $ {0:0.##}", item.getItemPrice() * item.getTaxRate());
-            Console.WriteLine("Total: $ {0:0.##}", item.getTotalAmtOwed());
+            Console.WriteLine("Price: $ {0:C2}", item.getItemPrice());
+            Console.WriteLine("Tax: $ {0:C2}", item.getItemPrice() * item.getTaxRate());
+            Console.WriteLine("Total: $ {0:C2}", item.getTotalAmtOwed());
 
             Console.WriteLine("Please enter amount to pay with:");
             while(!item.setAmtRcvd(Console.ReadLine()))
@@ -30,8 +30,8 @@ namespace ShoppingCartV2
             }
 
             Console.WriteLine("Transaction completed:");
-            Console.WriteLine("Received: $ {0:0.##}", item.getAmtRcvd());
-            Console.WriteLine("Change: $ {0:0.##}", item.getChange());
+            Console.WriteLine("Received: $ {0:C2}", item.getAmtRcvd());
+            Console.WriteLine("Change: $ {0:C2}", item.getChange());
             Console.WriteLine("Thank you for the purchase! Please come again. :)");
 
             Console.WriteLine("Press [Enter] key to end program.");

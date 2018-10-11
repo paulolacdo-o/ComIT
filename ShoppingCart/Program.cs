@@ -33,9 +33,9 @@ namespace ShoppingCart
 
             Console.WriteLine("\n\nYou are buying:");
             Console.WriteLine("\n" + itemName);
-            Console.WriteLine("$ {0:0.##}", itemPrice);
-            Console.WriteLine("$ {0:0.##}", (itemPrice * taxRate));
-            Console.WriteLine("$ {0:0.##}", totalAmtOwed);
+            Console.WriteLine("$ {0:C2}", itemPrice);
+            Console.WriteLine("$ {0:C2}", (itemPrice * taxRate));
+            Console.WriteLine("$ {0:C2}", totalAmtOwed);
 
             while (isInsufficient)
             {
@@ -56,8 +56,8 @@ namespace ShoppingCart
 
             change = moneyRcvd - totalAmtOwed;
 
-            Console.WriteLine("\nReceived $ {0:0.##}", moneyRcvd);
-            Console.WriteLine("Your change is $ {0:0.##}", change);
+            Console.WriteLine("\nReceived $ {0:C2}", moneyRcvd);
+            Console.WriteLine("Your change is $ {0:C2}", change);
 
             Console.WriteLine("\nThank you for visiting the store!");
 
