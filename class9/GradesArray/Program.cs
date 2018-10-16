@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace GradesArray
 {
@@ -7,10 +7,15 @@ namespace GradesArray
         static void Main(string[] args)
         {
         	int[] grades = new int[] {98, 55, 78, 82, 81};
-        	int totalGrades = grades[0] + grades[1] + grades[2] + grades[3] + grades[4];
-        	float avgGrade = (float)totalGrades / 5;
+        	int totalGrades = 0;
+        	
+        	for (int i = 0; i < grades.Length; i++)
+        	{
+        		totalGrades += grades[i];
+        	}
 
-            Console.WriteLine($"Total grade is {totalGrades}");
+        	float avgGrade = (float)totalGrades / grades.Length;
+
             Console.WriteLine($"Average grade is {avgGrade}");
 
             Console.Write("\nPress the [Enter] key to exit the program. ");
