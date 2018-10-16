@@ -1,0 +1,11 @@
+C:\proj\comit\class9\GradesArray\bin\Debug\netcoreapp2.1\GradesArray.deps.json
+C:\proj\comit\class9\GradesArray\bin\Debug\netcoreapp2.1\GradesArray.runtimeconfig.json
+C:\proj\comit\class9\GradesArray\bin\Debug\netcoreapp2.1\GradesArray.runtimeconfig.dev.json
+C:\proj\comit\class9\GradesArray\bin\Debug\netcoreapp2.1\GradesArray.dll
+C:\proj\comit\class9\GradesArray\bin\Debug\netcoreapp2.1\GradesArray.pdb
+C:\proj\comit\class9\GradesArray\obj\Debug\netcoreapp2.1\GradesArray.csprojAssemblyReference.cache
+C:\proj\comit\class9\GradesArray\obj\Debug\netcoreapp2.1\GradesArray.csproj.CoreCompileInputs.cache
+C:\proj\comit\class9\GradesArray\obj\Debug\netcoreapp2.1\GradesArray.AssemblyInfoInputs.cache
+C:\proj\comit\class9\GradesArray\obj\Debug\netcoreapp2.1\GradesArray.AssemblyInfo.cs
+C:\proj\comit\class9\GradesArray\obj\Debug\netcoreapp2.1\GradesArray.dll
+C:\proj\comit\class9\GradesArray\obj\Debug\netcoreapp2.1\GradesArray.pdb
