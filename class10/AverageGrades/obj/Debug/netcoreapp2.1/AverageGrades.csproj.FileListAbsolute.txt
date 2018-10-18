@@ -1,0 +1,11 @@
+C:\proj\ComIT\class10\AverageGrades\bin\Debug\netcoreapp2.1\AverageGrades.deps.json
+C:\proj\ComIT\class10\AverageGrades\bin\Debug\netcoreapp2.1\AverageGrades.runtimeconfig.json
+C:\proj\ComIT\class10\AverageGrades\bin\Debug\netcoreapp2.1\AverageGrades.runtimeconfig.dev.json
+C:\proj\ComIT\class10\AverageGrades\bin\Debug\netcoreapp2.1\AverageGrades.dll
+C:\proj\ComIT\class10\AverageGrades\bin\Debug\netcoreapp2.1\AverageGrades.pdb
+C:\proj\ComIT\class10\AverageGrades\obj\Debug\netcoreapp2.1\AverageGrades.csproj.CoreCompileInputs.cache
+C:\proj\ComIT\class10\AverageGrades\obj\Debug\netcoreapp2.1\AverageGrades.AssemblyInfoInputs.cache
+C:\proj\ComIT\class10\AverageGrades\obj\Debug\netcoreapp2.1\AverageGrades.AssemblyInfo.cs
+C:\proj\ComIT\class10\AverageGrades\obj\Debug\netcoreapp2.1\AverageGrades.dll
+C:\proj\ComIT\class10\AverageGrades\obj\Debug\netcoreapp2.1\AverageGrades.pdb
+C:\proj\ComIT\class10\AverageGrades\obj\Debug\netcoreapp2.1\AverageGrades.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\proj\ComIT\class10\AlphabeticalComparison\obj\Debug\netcoreapp2.1\AlphabeticalComparison.csprojAssemblyReference.cache
+C:\proj\ComIT\class10\AlphabeticalComparison\obj\Debug\netcoreapp2.1\AlphabeticalComparison.csproj.CoreCompileInputs.cache
+C:\proj\ComIT\class10\AlphabeticalComparison\obj\Debug\netcoreapp2.1\AlphabeticalComparison.AssemblyInfoInputs.cache
+C:\proj\ComIT\class10\AlphabeticalComparison\obj\Debug\netcoreapp2.1\AlphabeticalComparison.AssemblyInfo.cs
+C:\proj\ComIT\class10\AlphabeticalComparison\bin\Debug\netcoreapp2.1\AlphabeticalComparison.deps.json
+C:\proj\ComIT\class10\AlphabeticalComparison\bin\Debug\netcoreapp2.1\AlphabeticalComparison.runtimeconfig.json
+C:\proj\ComIT\class10\AlphabeticalComparison\bin\Debug\netcoreapp2.1\AlphabeticalComparison.runtimeconfig.dev.json
+C:\proj\ComIT\class10\AlphabeticalComparison\bin\Debug\netcoreapp2.1\AlphabeticalComparison.dll
+C:\proj\ComIT\class10\AlphabeticalComparison\bin\Debug\netcoreapp2.1\AlphabeticalComparison.pdb
+C:\proj\ComIT\class10\AlphabeticalComparison\obj\Debug\netcoreapp2.1\AlphabeticalComparison.dll
+C:\proj\ComIT\class10\AlphabeticalComparison\obj\Debug\netcoreapp2.1\AlphabeticalComparison.pdb

@@ -1,0 +1,11 @@
+C:\proj\ComIT\class10\StringToASCII\bin\Debug\netcoreapp2.1\StringToASCII.deps.json
+C:\proj\ComIT\class10\StringToASCII\bin\Debug\netcoreapp2.1\StringToASCII.runtimeconfig.json
+C:\proj\ComIT\class10\StringToASCII\bin\Debug\netcoreapp2.1\StringToASCII.runtimeconfig.dev.json
+C:\proj\ComIT\class10\StringToASCII\bin\Debug\netcoreapp2.1\StringToASCII.dll
+C:\proj\ComIT\class10\StringToASCII\bin\Debug\netcoreapp2.1\StringToASCII.pdb
+C:\proj\ComIT\class10\StringToASCII\obj\Debug\netcoreapp2.1\StringToASCII.csprojAssemblyReference.cache
+C:\proj\ComIT\class10\StringToASCII\obj\Debug\netcoreapp2.1\StringToASCII.csproj.CoreCompileInputs.cache
+C:\proj\ComIT\class10\StringToASCII\obj\Debug\netcoreapp2.1\StringToASCII.AssemblyInfoInputs.cache
+C:\proj\ComIT\class10\StringToASCII\obj\Debug\netcoreapp2.1\StringToASCII.AssemblyInfo.cs
+C:\proj\ComIT\class10\StringToASCII\obj\Debug\netcoreapp2.1\StringToASCII.dll
+C:\proj\ComIT\class10\StringToASCII\obj\Debug\netcoreapp2.1\StringToASCII.pdb
