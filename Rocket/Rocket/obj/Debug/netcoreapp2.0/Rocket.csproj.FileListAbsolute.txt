@@ -1,0 +1,11 @@
+C:\proj\ComIT\Rocket\Rocket\bin\Debug\netcoreapp2.0\Rocket.deps.json
+C:\proj\ComIT\Rocket\Rocket\bin\Debug\netcoreapp2.0\Rocket.runtimeconfig.json
+C:\proj\ComIT\Rocket\Rocket\bin\Debug\netcoreapp2.0\Rocket.runtimeconfig.dev.json
+C:\proj\ComIT\Rocket\Rocket\bin\Debug\netcoreapp2.0\Rocket.dll
+C:\proj\ComIT\Rocket\Rocket\bin\Debug\netcoreapp2.0\Rocket.pdb
+C:\proj\ComIT\Rocket\Rocket\obj\Debug\netcoreapp2.0\Rocket.csprojAssemblyReference.cache
+C:\proj\ComIT\Rocket\Rocket\obj\Debug\netcoreapp2.0\Rocket.csproj.CoreCompileInputs.cache
+C:\proj\ComIT\Rocket\Rocket\obj\Debug\netcoreapp2.0\Rocket.AssemblyInfoInputs.cache
+C:\proj\ComIT\Rocket\Rocket\obj\Debug\netcoreapp2.0\Rocket.AssemblyInfo.cs
+C:\proj\ComIT\Rocket\Rocket\obj\Debug\netcoreapp2.0\Rocket.dll
+C:\proj\ComIT\Rocket\Rocket\obj\Debug\netcoreapp2.0\Rocket.pdb
