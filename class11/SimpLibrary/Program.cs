@@ -28,14 +28,13 @@ namespace SimpLibrary
                             books[numOfTitles++] = CreateBook();
                             Console.Write("\nBook added to library!" +
                                 "\nPress any key to proceed.");
-                            Console.ReadKey();
                         }
                         else
                         {
                             Console.Write("\nSorry, there are no more space available for new titles!" +
                                 "\nPress any key to proceed.");
-                            Console.ReadKey();
                         }
+                        Console.ReadKey();
                         break;
                     case 3:
                         TakeOutBook(books, numOfTitles);
