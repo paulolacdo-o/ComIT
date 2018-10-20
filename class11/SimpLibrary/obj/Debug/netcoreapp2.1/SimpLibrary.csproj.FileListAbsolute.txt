@@ -1,0 +1,11 @@
+C:\proj\ComIT\class11\SimpLibrary\bin\Debug\netcoreapp2.1\SimpLibrary.deps.json
+C:\proj\ComIT\class11\SimpLibrary\bin\Debug\netcoreapp2.1\SimpLibrary.runtimeconfig.json
+C:\proj\ComIT\class11\SimpLibrary\bin\Debug\netcoreapp2.1\SimpLibrary.runtimeconfig.dev.json
+C:\proj\ComIT\class11\SimpLibrary\bin\Debug\netcoreapp2.1\SimpLibrary.dll
+C:\proj\ComIT\class11\SimpLibrary\bin\Debug\netcoreapp2.1\SimpLibrary.pdb
+C:\proj\ComIT\class11\SimpLibrary\obj\Debug\netcoreapp2.1\SimpLibrary.csprojAssemblyReference.cache
+C:\proj\ComIT\class11\SimpLibrary\obj\Debug\netcoreapp2.1\SimpLibrary.csproj.CoreCompileInputs.cache
+C:\proj\ComIT\class11\SimpLibrary\obj\Debug\netcoreapp2.1\SimpLibrary.AssemblyInfoInputs.cache
+C:\proj\ComIT\class11\SimpLibrary\obj\Debug\netcoreapp2.1\SimpLibrary.AssemblyInfo.cs
+C:\proj\ComIT\class11\SimpLibrary\obj\Debug\netcoreapp2.1\SimpLibrary.dll
+C:\proj\ComIT\class11\SimpLibrary\obj\Debug\netcoreapp2.1\SimpLibrary.pdb

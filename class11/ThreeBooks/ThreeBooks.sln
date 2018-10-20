@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThreeBooks", "ThreeBooks.csproj", "{FBE2DC7D-9D90-4C14-9943-9A92BF43B8AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBE2DC7D-9D90-4C14-9943-9A92BF43B8AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBE2DC7D-9D90-4C14-9943-9A92BF43B8AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBE2DC7D-9D90-4C14-9943-9A92BF43B8AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBE2DC7D-9D90-4C14-9943-9A92BF43B8AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44E55C1F-4ED8-4985-8462-886EBF32D318}
+	EndGlobalSection
+EndGlobal

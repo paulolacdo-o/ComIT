@@ -1,0 +1,11 @@
+C:\proj\ComIT\class11\ThreeBooks\bin\Debug\netcoreapp2.1\ThreeBooks.deps.json
+C:\proj\ComIT\class11\ThreeBooks\bin\Debug\netcoreapp2.1\ThreeBooks.runtimeconfig.json
+C:\proj\ComIT\class11\ThreeBooks\bin\Debug\netcoreapp2.1\ThreeBooks.runtimeconfig.dev.json
+C:\proj\ComIT\class11\ThreeBooks\bin\Debug\netcoreapp2.1\ThreeBooks.dll
+C:\proj\ComIT\class11\ThreeBooks\bin\Debug\netcoreapp2.1\ThreeBooks.pdb
+C:\proj\ComIT\class11\ThreeBooks\obj\Debug\netcoreapp2.1\ThreeBooks.csprojAssemblyReference.cache
+C:\proj\ComIT\class11\ThreeBooks\obj\Debug\netcoreapp2.1\ThreeBooks.csproj.CoreCompileInputs.cache
+C:\proj\ComIT\class11\ThreeBooks\obj\Debug\netcoreapp2.1\ThreeBooks.AssemblyInfoInputs.cache
+C:\proj\ComIT\class11\ThreeBooks\obj\Debug\netcoreapp2.1\ThreeBooks.AssemblyInfo.cs
+C:\proj\ComIT\class11\ThreeBooks\obj\Debug\netcoreapp2.1\ThreeBooks.dll
+C:\proj\ComIT\class11\ThreeBooks\obj\Debug\netcoreapp2.1\ThreeBooks.pdb
