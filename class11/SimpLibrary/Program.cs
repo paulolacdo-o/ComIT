@@ -89,12 +89,12 @@ namespace SimpLibrary
             }
             if(books[bookIndex].Return())
             {
-                Console.WriteLine($"\nYou have returned { books[bookIndex].title} by { books[bookIndex].author}." +
+                Console.WriteLine($"\nYou have returned { books[bookIndex].Title} by { books[bookIndex].Title}." +
                     $"\nThank you for returning it on time.");
             }
             else
             {
-                Console.WriteLine($"\nYou have not borrowed { books[bookIndex].title} by { books[bookIndex].author}." +
+                Console.WriteLine($"\nYou have not borrowed { books[bookIndex].Title} by { books[bookIndex].Author}." +
                     $"\nPlease check your information and try again.");
             }
             Console.Write("\nPress any key to proceed.");
@@ -114,12 +114,12 @@ namespace SimpLibrary
             }
             if (books[bookIndex].Loan())
             {
-                Console.WriteLine($"\nYou have borrowed {books[bookIndex].title} by {books[bookIndex].author}." +
+                Console.WriteLine($"\nYou have borrowed {books[bookIndex].Title} by {books[bookIndex].Author}." +
                     $"\nPlease return the book on or before the end of the lending period.");
             }
             else
             {
-                Console.WriteLine($"\nSorry, there are no more available copies of {books[bookIndex].title} by {books[bookIndex].author} to lend out.");
+                Console.WriteLine($"\nSorry, there are no more available copies of {books[bookIndex].Title} by {books[bookIndex].Author} to lend out.");
             }
 
             Console.Write("\nPress any key to proceed.");

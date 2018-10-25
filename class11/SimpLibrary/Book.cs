@@ -6,31 +6,35 @@ namespace SimpLibrary
 {
     class Book
     {
-        public string title;
-        public string author;
-        public int copies;
-        public int copiesLent;
+        public string Title;
+        public string Author;
+        public int Copies;
+        public int CopiesLent;
 
         public Book()
         {
+            Title = "Untitled";
+            Author = "Anonymous";
+            Copies = 1;
+            CopiesLent = 0;
         }
 
         public Book(string title, string author, int copies)
         {
-            this.title = title;
-            this.author = author;
-            this.copies = copies;
-            copiesLent = 0;
+            Title = title;
+            Author = author;
+            Copies = copies;
+            CopiesLent = 0;
         }
 
         public bool Loan()
         {
             bool isLent = false;
 
-            if (copiesLent < copies)
+            if (CopiesLent < Copies)
             {
                 isLent = true;
-                copiesLent++;
+                CopiesLent++;
             }
 
             return isLent;
@@ -40,10 +44,10 @@ namespace SimpLibrary
         {
             bool isReturned = false;
 
-            if (copiesLent > 0)
+            if (CopiesLent > 0)
             {
                 isReturned = true;
-                copiesLent--;
+                CopiesLent--;
             }
 
             return isReturned;
@@ -51,7 +55,7 @@ namespace SimpLibrary
 
         override public string ToString()
         {
-            return ($"{title}, by {author}. {copiesLent} copies lent out from {copies} total.");
+            return ($"{Title}, by {Author}. {CopiesLent} copies lent out from {Copies} total.");
         }
     }
 }
