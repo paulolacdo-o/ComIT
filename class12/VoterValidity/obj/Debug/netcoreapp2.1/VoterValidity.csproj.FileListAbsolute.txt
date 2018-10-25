@@ -1,0 +1,11 @@
+C:\proj\ComIT\class12\VoterValidity\bin\Debug\netcoreapp2.1\VoterValidity.deps.json
+C:\proj\ComIT\class12\VoterValidity\bin\Debug\netcoreapp2.1\VoterValidity.runtimeconfig.json
+C:\proj\ComIT\class12\VoterValidity\bin\Debug\netcoreapp2.1\VoterValidity.runtimeconfig.dev.json
+C:\proj\ComIT\class12\VoterValidity\bin\Debug\netcoreapp2.1\VoterValidity.dll
+C:\proj\ComIT\class12\VoterValidity\bin\Debug\netcoreapp2.1\VoterValidity.pdb
+C:\proj\ComIT\class12\VoterValidity\obj\Debug\netcoreapp2.1\VoterValidity.csprojAssemblyReference.cache
+C:\proj\ComIT\class12\VoterValidity\obj\Debug\netcoreapp2.1\VoterValidity.csproj.CoreCompileInputs.cache
+C:\proj\ComIT\class12\VoterValidity\obj\Debug\netcoreapp2.1\VoterValidity.AssemblyInfoInputs.cache
+C:\proj\ComIT\class12\VoterValidity\obj\Debug\netcoreapp2.1\VoterValidity.AssemblyInfo.cs
+C:\proj\ComIT\class12\VoterValidity\obj\Debug\netcoreapp2.1\VoterValidity.dll
+C:\proj\ComIT\class12\VoterValidity\obj\Debug\netcoreapp2.1\VoterValidity.pdb
