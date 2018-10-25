@@ -6,7 +6,7 @@ namespace SimpLibrary
     {
         static void Main(string[] args)
         {
-            const int MAX_TITLES = 32; //change this if you want more of each book title in the library
+            const int MAX_TITLES = 10; //change this if you want more of each book title in the library
 
             bool isQuit = false;
             int numOfTitles = 0;
