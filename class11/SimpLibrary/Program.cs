@@ -107,7 +107,7 @@ namespace SimpLibrary
 
             Console.Write("\nWhich book do you want to take out?" +
                 "\nPlease enter its index number: ");
-            while (!(Int32.TryParse(Console.ReadLine(), out bookIndex)) || (bookIndex < 0 || bookIndex >= numOfTitles))
+            while (!Int32.TryParse(Console.ReadLine(), out bookIndex) || bookIndex < 0 || bookIndex >= numOfTitles)
             {
                 Console.Write("\nError: Index value does not exist!" +
                     "\nPlease try again: ");
@@ -159,7 +159,7 @@ namespace SimpLibrary
         {
             int choice;
             
-            while(!(Int32.TryParse(Console.ReadLine(), out choice)) || (choice < 1 || choice > 5))
+            while(!Int32.TryParse(Console.ReadLine(), out choice) || choice < 1 || choice > 5)
             {
                 Console.Write("\nError: Invalid input!" +
                     "\nPlease choose a number from the list above: ");
