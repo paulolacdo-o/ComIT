@@ -31,7 +31,7 @@ namespace SimpLibrary
                         }
                         else
                         {
-                            Console.Write("\nSorry, there are no more space available for new titles!" +
+                            Console.Write("\nSorry, there are no more spaces available for new titles!" +
                                 "\nPress any key to proceed.");
                         }
                         Console.ReadKey();
@@ -82,7 +82,7 @@ namespace SimpLibrary
 
             Console.Write("\nWhich book do you want to return?" +
                 "\nPlease enter its index number: ");
-            while (!(Int32.TryParse(Console.ReadLine(), out bookIndex)) || (bookIndex < 0 || bookIndex >= numOfTitles))
+            while (!Int32.TryParse(Console.ReadLine(), out bookIndex) || bookIndex < 0 || bookIndex >= numOfTitles)
             {
                 Console.Write("\nError: Index value does not exist!" +
                     "\nPlease try again: ");
