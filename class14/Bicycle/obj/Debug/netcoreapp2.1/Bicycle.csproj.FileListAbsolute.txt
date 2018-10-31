@@ -1,0 +1,11 @@
+C:\proj\ComIT\class14\Bicycle\bin\Debug\netcoreapp2.1\Bicycle.deps.json
+C:\proj\ComIT\class14\Bicycle\bin\Debug\netcoreapp2.1\Bicycle.runtimeconfig.json
+C:\proj\ComIT\class14\Bicycle\bin\Debug\netcoreapp2.1\Bicycle.runtimeconfig.dev.json
+C:\proj\ComIT\class14\Bicycle\bin\Debug\netcoreapp2.1\Bicycle.dll
+C:\proj\ComIT\class14\Bicycle\bin\Debug\netcoreapp2.1\Bicycle.pdb
+C:\proj\ComIT\class14\Bicycle\obj\Debug\netcoreapp2.1\Bicycle.csprojAssemblyReference.cache
+C:\proj\ComIT\class14\Bicycle\obj\Debug\netcoreapp2.1\Bicycle.csproj.CoreCompileInputs.cache
+C:\proj\ComIT\class14\Bicycle\obj\Debug\netcoreapp2.1\Bicycle.AssemblyInfoInputs.cache
+C:\proj\ComIT\class14\Bicycle\obj\Debug\netcoreapp2.1\Bicycle.AssemblyInfo.cs
+C:\proj\ComIT\class14\Bicycle\obj\Debug\netcoreapp2.1\Bicycle.dll
+C:\proj\ComIT\class14\Bicycle\obj\Debug\netcoreapp2.1\Bicycle.pdb
