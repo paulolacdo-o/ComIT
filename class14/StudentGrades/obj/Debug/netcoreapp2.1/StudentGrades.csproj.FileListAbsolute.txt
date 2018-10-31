@@ -1,0 +1,11 @@
+C:\proj\ComIT\class14\StudentGrades\bin\Debug\netcoreapp2.1\StudentGrades.deps.json
+C:\proj\ComIT\class14\StudentGrades\bin\Debug\netcoreapp2.1\StudentGrades.runtimeconfig.json
+C:\proj\ComIT\class14\StudentGrades\bin\Debug\netcoreapp2.1\StudentGrades.runtimeconfig.dev.json
+C:\proj\ComIT\class14\StudentGrades\bin\Debug\netcoreapp2.1\StudentGrades.dll
+C:\proj\ComIT\class14\StudentGrades\bin\Debug\netcoreapp2.1\StudentGrades.pdb
+C:\proj\ComIT\class14\StudentGrades\obj\Debug\netcoreapp2.1\StudentGrades.csprojAssemblyReference.cache
+C:\proj\ComIT\class14\StudentGrades\obj\Debug\netcoreapp2.1\StudentGrades.csproj.CoreCompileInputs.cache
+C:\proj\ComIT\class14\StudentGrades\obj\Debug\netcoreapp2.1\StudentGrades.AssemblyInfoInputs.cache
+C:\proj\ComIT\class14\StudentGrades\obj\Debug\netcoreapp2.1\StudentGrades.AssemblyInfo.cs
+C:\proj\ComIT\class14\StudentGrades\obj\Debug\netcoreapp2.1\StudentGrades.dll
+C:\proj\ComIT\class14\StudentGrades\obj\Debug\netcoreapp2.1\StudentGrades.pdb
