@@ -1,0 +1,11 @@
+C:\proj\ComIT\class19\PoS\bin\Debug\netcoreapp2.1\PoS.deps.json
+C:\proj\ComIT\class19\PoS\bin\Debug\netcoreapp2.1\PoS.runtimeconfig.json
+C:\proj\ComIT\class19\PoS\bin\Debug\netcoreapp2.1\PoS.runtimeconfig.dev.json
+C:\proj\ComIT\class19\PoS\bin\Debug\netcoreapp2.1\PoS.dll
+C:\proj\ComIT\class19\PoS\bin\Debug\netcoreapp2.1\PoS.pdb
+C:\proj\ComIT\class19\PoS\obj\Debug\netcoreapp2.1\PoS.csprojAssemblyReference.cache
+C:\proj\ComIT\class19\PoS\obj\Debug\netcoreapp2.1\PoS.csproj.CoreCompileInputs.cache
+C:\proj\ComIT\class19\PoS\obj\Debug\netcoreapp2.1\PoS.AssemblyInfoInputs.cache
+C:\proj\ComIT\class19\PoS\obj\Debug\netcoreapp2.1\PoS.AssemblyInfo.cs
+C:\proj\ComIT\class19\PoS\obj\Debug\netcoreapp2.1\PoS.dll
+C:\proj\ComIT\class19\PoS\obj\Debug\netcoreapp2.1\PoS.pdb
