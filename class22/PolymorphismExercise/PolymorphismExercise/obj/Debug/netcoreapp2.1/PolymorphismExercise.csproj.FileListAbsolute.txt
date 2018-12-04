@@ -1,0 +1,11 @@
+C:\proj\ComIT\class22\PolymorphismExercise\PolymorphismExercise\bin\Debug\netcoreapp2.1\PolymorphismExercise.deps.json
+C:\proj\ComIT\class22\PolymorphismExercise\PolymorphismExercise\bin\Debug\netcoreapp2.1\PolymorphismExercise.runtimeconfig.json
+C:\proj\ComIT\class22\PolymorphismExercise\PolymorphismExercise\bin\Debug\netcoreapp2.1\PolymorphismExercise.runtimeconfig.dev.json
+C:\proj\ComIT\class22\PolymorphismExercise\PolymorphismExercise\bin\Debug\netcoreapp2.1\PolymorphismExercise.dll
+C:\proj\ComIT\class22\PolymorphismExercise\PolymorphismExercise\bin\Debug\netcoreapp2.1\PolymorphismExercise.pdb
+C:\proj\ComIT\class22\PolymorphismExercise\PolymorphismExercise\obj\Debug\netcoreapp2.1\PolymorphismExercise.csprojAssemblyReference.cache
+C:\proj\ComIT\class22\PolymorphismExercise\PolymorphismExercise\obj\Debug\netcoreapp2.1\PolymorphismExercise.csproj.CoreCompileInputs.cache
+C:\proj\ComIT\class22\PolymorphismExercise\PolymorphismExercise\obj\Debug\netcoreapp2.1\PolymorphismExercise.AssemblyInfoInputs.cache
+C:\proj\ComIT\class22\PolymorphismExercise\PolymorphismExercise\obj\Debug\netcoreapp2.1\PolymorphismExercise.AssemblyInfo.cs
+C:\proj\ComIT\class22\PolymorphismExercise\PolymorphismExercise\obj\Debug\netcoreapp2.1\PolymorphismExercise.dll
+C:\proj\ComIT\class22\PolymorphismExercise\PolymorphismExercise\obj\Debug\netcoreapp2.1\PolymorphismExercise.pdb
